@@ -1,0 +1,2 @@
+imageprocess:package:strategy:tku_libs:tku_msgs:usb_cam:walkinggait
+-DCATKIN_WHITELIST_PACKAGES= -DCATKIN_DEVEL_PREFIX=/home/iclab/Desktop/w1649n/SR/devel -DCMAKE_INSTALL_PREFIX=/home/iclab/Desktop/w1649n/SR/install -G Unix Makefiles

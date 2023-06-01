@@ -1,0 +1,8 @@
+prefix=/home/iclab/Desktop/w1649n/SR/devel
+
+Name: tku_msgs
+Description: Description of tku_msgs
+Version: 0.0.0
+Cflags: -I/home/iclab/Desktop/w1649n/SR/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
